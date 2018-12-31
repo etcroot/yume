@@ -2,3 +2,15 @@
 
 ### Yume Chan
 Stuff will be added to the repo later, for now it's just the main bot file & some images.
+
+### Installing
+*coming soon*
+
+### Running the bot
+*coming soon*
+
+### Running with auto-restart
+*coming soon*
+
+### Contributors
+*coming soon*
