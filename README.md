@@ -1,4 +1,4 @@
-<p style="text-align:center;">
+<p align="center">
 ![Alt text](resources/yumetrans.png?raw=true "Yume Logo")
 ![](https://img.shields.io/discord/528937783512006666.svg?style=popout-square)
 ![](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg?style=popout-square)
