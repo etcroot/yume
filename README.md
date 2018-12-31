@@ -1,3 +1,1 @@
-# yume
-Yume Chan's little repo
-![Alt text](resources/yumetrans.png?raw=true "Title")
+![Alt text](resources/yumetrans.png?raw=true "Yume Logo")
