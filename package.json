@@ -1,0 +1,35 @@
+{
+  "name": "yume",
+  "version": "1.2.0",
+  "description": "Cocky discord bot",
+  "main": "app.js",
+  "dependencies": {
+    "animequote": "^1.1.1",
+    "discord.js": "github:discordjs/discord.js",
+    "fs": "^0.0.1-security",
+    "kitsu.js": "^2.0.0",
+    "node-fetch": "^2.3.0",
+    "random-puppy": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etcroot/yume.git"
+  },
+  "keywords": [
+    "discord",
+    "discordbot",
+    "discord-js",
+    "discordjs",
+    "discordjsbot"
+  ],
+  "author": "etcroot#7884",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etcroot/yume/issues"
+  },
+  "homepage": "https://github.com/etcroot/yume#readme"
+}
